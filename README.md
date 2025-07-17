@@ -22,13 +22,13 @@ Upon completion of this learning program, you will be proficient in:
 ## Prerequisites and Requirements
 
 ### Academic Foundation
-This program assumes proficiency in:
+This curriculum assumes proficiency in:
 - **Mathematics**: Linear algebra, multivariate calculus, probability theory, and statistics
 - **Computer Science**: Data structures, algorithms, and programming fundamentals
 - **Analytical Thinking**: Mathematical reasoning and problem-solving methodologies
 
 ### Learning Approach
-The program emphasizes:
+The curriculum emphasizes:
 - **Theoretical rigor** balanced with practical implementation
 - **Research-oriented** problem-solving methodologies
 - **Industry-relevant** applications and case studies
