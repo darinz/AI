@@ -23,9 +23,20 @@ Upon completion of this learning program, you will be proficient in:
 
 ### 1. Machine Learning
 
+
 ### 2. Search
 
 ### 3. Markov Decision Processes (MDPs)
+
+### 4. Games
+
+### 5. Constraint satisfaction problems
+
+### 6. Markov networks
+
+### 7. Bayesian networks
+
+### 8. Logic
 
 ## Prerequisites and Requirements
 
