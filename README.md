@@ -35,6 +35,11 @@ Upon completion of this learning program, you will be proficient in:
 - K-means
 
 ### 2. Search
+- Modeling Search Problems
+- Algorithms
+- Tree Search
+- Dynamic Programming
+- 
 
 ### 3. Markov Decision Processes (MDPs)
 
