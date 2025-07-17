@@ -22,6 +22,17 @@ Upon completion of this learning program, you will be proficient in:
 ## Learning Path
 
 ### 1. Machine Learning
+- Overview
+- Linear regression
+- Linear classification
+- Stochastic gradient descent
+- Non-linear features
+- feature templates
+- Neural networks
+- backpropagation
+- Generalization
+- Best practices
+- K-means
 
 ### 2. Search
 
