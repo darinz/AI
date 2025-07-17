@@ -19,6 +19,12 @@ Upon completion of this learning program, you will be proficient in:
 - **Probabilistic Graphical Models** - Bayesian networks, factor graphs, and probabilistic inference
 - **Logic and Automated Reasoning** - Formal logic systems and automated theorem proving
 
+## Learning Path
+
+### 1. Machine Learning
+
+### 2. Search
+
 ## Prerequisites and Requirements
 
 ### Academic Foundation
