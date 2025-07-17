@@ -25,6 +25,8 @@ Upon completion of this learning program, you will be proficient in:
 
 ### 2. Search
 
+### 3. Markov Decision Processes (MDPs)
+
 ## Prerequisites and Requirements
 
 ### Academic Foundation
