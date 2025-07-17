@@ -24,7 +24,9 @@ Upon completion of this learning program, you will be proficient in:
 ### Academic Foundation
 This curriculum assumes proficiency in:
 - **Mathematics**: Linear algebra, multivariate calculus, probability theory, and statistics
+  - **Reference**: [Mathematics Repository](https://github.com/darinz/Math) - Comprehensive math learning materials
 - **Computer Science**: Data structures, algorithms, and programming fundamentals
+  - **Reference**: [Toolkit Repository](https://github.com/darinz/Toolkit) – Essential AI/ML and Data Science coding resources
 - **Analytical Thinking**: Mathematical reasoning and problem-solving methodologies
 
 ### Learning Approach
