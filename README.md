@@ -98,6 +98,9 @@ Upon completion of this learning program, you will be proficient in:
 - EM algorithm
 
 ### 8. Logic
+- Overview
+- Propositional logic syntax
+- Propositional logic semantics
 
 ## Prerequisites and Requirements
 
