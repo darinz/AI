@@ -101,6 +101,13 @@ Upon completion of this learning program, you will be proficient in:
 - Overview
 - Propositional logic syntax
 - Propositional logic semantics
+- Inference rules
+- Propositional modus ponens
+- Propositional resolution
+- First order logic
+- First order modus ponens
+- Explainability and interpretability
+- First order resolution
 
 ## Prerequisites and Requirements
 
