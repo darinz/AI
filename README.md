@@ -77,6 +77,8 @@ Upon completion of this learning program, you will be proficient in:
 - Examples
 - Dynamic ordering
 - Arc consistency
+- Beam search
+- Local search
 
 ### 6. Markov networks
 
