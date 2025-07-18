@@ -72,6 +72,11 @@ Upon completion of this learning program, you will be proficient in:
 - Non-zero-sum games
 
 ### 5. Constraint satisfaction problems
+- Overview
+- Definitions
+- Examples
+- Dynamic ordering
+- Arc consistency
 
 ### 6. Markov networks
 
