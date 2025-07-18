@@ -45,6 +45,17 @@ Upon completion of this learning program, you will be proficient in:
 - A* Relaxations
 
 ### 3. Markov Decision Processes (MDPs)
+- Overview
+- Modeling
+- Policy evaluation
+- Value iteration
+- Reinforcement learning
+- Model-based Monte Carlo
+- Model-free Monte Carlo
+- SARSA
+- Q-learning
+- Epsilon-greedy
+- Function approximation
 
 ### 4. Games
 
