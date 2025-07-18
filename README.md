@@ -39,7 +39,10 @@ Upon completion of this learning program, you will be proficient in:
 - Algorithms
 - Tree Search
 - Dynamic Programming
-- 
+- Uniform Cost Search
+- Programming and Correctness of UCS
+- A*
+- A* Relaxations
 
 ### 3. Markov Decision Processes (MDPs)
 
