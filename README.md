@@ -93,7 +93,9 @@ Upon completion of this learning program, you will be proficient in:
 - Probabilistic inference
 - Forward-backward algorithm
 - Particle filtering
-- 
+- Supervised learning
+- Smoothing
+- EM algorithm
 
 ### 8. Logic
 
