@@ -83,9 +83,17 @@ Upon completion of this learning program, you will be proficient in:
 ### 6. Markov networks
 - Overview
 - Gibbs sampling
-- 
+- Encoding human values
+- Conditional independence
 
 ### 7. Bayesian networks
+- Conditional independence
+- Definitions
+- Probabilistic programming
+- Probabilistic inference
+- Forward-backward algorithm
+- Particle filtering
+- 
 
 ### 8. Logic
 
