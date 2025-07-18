@@ -63,7 +63,13 @@ Upon completion of this learning program, you will be proficient in:
 - Game evaluation
 - Expectimax
 - Minimax
-- 
+- Expectiminimax
+- Evaluation functions
+- Alpha beta pruning
+- AI Misalignment
+- TD learning
+- Simultaneous games
+- Non-zero-sum games
 
 ### 5. Constraint satisfaction problems
 
