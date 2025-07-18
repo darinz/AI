@@ -58,6 +58,12 @@ Upon completion of this learning program, you will be proficient in:
 - Function approximation
 
 ### 4. Games
+- Overview
+- Modeling
+- Game evaluation
+- Expectimax
+- Minimax
+- 
 
 ### 5. Constraint satisfaction problems
 
