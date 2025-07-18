@@ -81,6 +81,9 @@ Upon completion of this learning program, you will be proficient in:
 - Local search
 
 ### 6. Markov networks
+- Overview
+- Gibbs sampling
+- 
 
 ### 7. Bayesian networks
 
